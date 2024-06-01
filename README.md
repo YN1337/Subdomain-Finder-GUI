@@ -15,6 +15,12 @@ Enter the domain name in the designated input field.
 Click the "Find Subdomains" button to initiate the subdomain search process.
 The application will display the retrieved subdomains in the output text area, categorized by their sources.
 
+#screen chat 
+
+
+
+![Capture2](https://github.com/YN1337/Subdomain-Finder-GUI/assets/88143447/f687d238-f133-4a0c-98ff-0513693eda5f)
+
 
 #run the application:
 python3 v1.py
